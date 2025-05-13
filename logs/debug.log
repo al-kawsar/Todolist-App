@@ -4316,3 +4316,67 @@ Stack trace:
 [2025-05-13 14:26:27] Generated image URL: http://localhost:8002/uploads/profile_pictures/user_1_1744635220_67fd0554b6352.jpg
 [2025-05-13 14:26:33] Profile picture filename: user_1_1744635220_67fd0554b6352.jpg
 [2025-05-13 14:26:33] Generated image URL: http://localhost:8002/uploads/profile_pictures/user_1_1744635220_67fd0554b6352.jpg
+[13-May-2025 18:32:32 Asia/Makassar] SQL Query: SELECT * FROM tags WHERE user_id = ? ORDER BY name ASC
+[13-May-2025 18:32:32 Asia/Makassar] User ID: 1
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:32 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:32 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:40 Asia/Makassar] Found 6 lists for user 1
+[13-May-2025 18:32:41 Asia/Makassar] SQL Query: SELECT * FROM tags WHERE user_id = ? ORDER BY name ASC
+[13-May-2025 18:32:41 Asia/Makassar] User ID: 1
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:32:41 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:41 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:32:55 Asia/Makassar] Found 6 lists for user 1
+[2025-05-13 18:33:39] Profile picture filename: user_1_1744635220_67fd0554b6352.jpg
+[2025-05-13 18:33:39] Generated image URL: http://localhost:8002/uploads/profile_pictures/user_1_1744635220_67fd0554b6352.jpg
+[13-May-2025 18:34:00 Asia/Makassar] SQL Query: SELECT * FROM tags WHERE user_id = ? ORDER BY name ASC
+[13-May-2025 18:34:00 Asia/Makassar] User ID: 1
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 329
+[13-May-2025 18:34:00 Asia/Makassar] PHP Warning:  Undefined array key "permission" in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
+[13-May-2025 18:34:00 Asia/Makassar] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/alkawsar/Documents/Programming/School_Projects/UKK/UKK_TODOLIST/ukk_todolist/modules/tasks/view.php on line 330
